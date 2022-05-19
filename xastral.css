@@ -1,0 +1,170 @@
+.success-btn {
+    background:#73cf73;
+    text-align: -webkit-center;
+    padding: 10px;
+    color: white;
+    border: 2px solid #73cf73;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+    }
+    .success-btn:hover {
+    background: #92ed96;
+    }
+.success-btn:active {
+outline: none;
+transform: scale(0.75);
+}
+    .danger-btn {
+    background: #ff5c5c;
+    text-align: -webkit-center;
+    padding: 10px;
+    color: white;
+    outline: none;
+    border: 2px solid #ff5c5c;
+    border-radius: 8px;
+    font-size: 16px;
+    }
+    .danger-btn:hover {
+    background: #ff8585;	
+    }
+.danger-btn:active {
+outline: none;
+transform: scale(0.75);
+}
+    .warning-btn {
+    background: #fbbe34;
+    padding: 10px;
+    color: white;
+    outline: none;
+    border: 2px solid #fbbe34;
+    text-align: -webkit-center;
+    border-radius: 8px;
+    font-size: 16px;
+    }
+.warning-btn:active {
+outline: none;
+transform: scale(0.75);
+}
+    .warning-btn:hover {
+    background: #ffab63;
+    }
+    .info-btn {
+    background: dodgerblue;
+    padding: 10px;
+    outline: none;
+    color: white;
+    border: 2px solid dodgerblue;
+    border-radius: 8px;
+    font-size: 16px;
+    }
+.info-btn:active {
+outline: none;
+transform: scale(0.75);
+}
+    .info-btn:hover {
+    background: #68b5ff;
+    }
+    #inp {
+    height: 50px;
+    width: 50%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 8px;
+    font-size: 18px;
+    text-align: -webkit-center;
+    outline: none;
+    }
+    #inp:focus, #inp:hover{
+    box-shadow: 0px 0px 5px 0px dodgerblue;
+    }
+    #sb-btn {
+    background: #73cf73;
+    padding: 10px;
+    color: white;
+    border: 2px solid #73cf73;
+    border-radius: 8px;
+    font-size: 16px;
+    }
+    #sb-btn:hover {
+    background: #92ed96;
+    }
+#sb-btn:active {
+outline: none;
+transform: scale(0.75);
+}
+      #slider {
+        -webkit-appearance: none;
+        background: #f1f1f1;
+        width: 80%;
+        height: 10px;
+        opacity: 2;
+        border-radius: 10px;
+       }
+      #slider:hover {
+        -webkit-appearance: none;
+        background: #dddddd;
+        width: 80%;
+        height: 10px;
+        opacity: 2;
+        border-radius: 10px;
+       }
+
+    #slider::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        cursor: pointer;
+        background: dodgerblue;
+        color: dodgerblue;
+        width: 30px;
+        border-radius: 100px;
+        height: 30px;
+    }
+
+
+    #slider:hover {
+        opacity: 1;
+    }
+    .img {
+        border-radius: 15px;
+        width: 50%;
+    }
+    .avimg {
+        border-radius: 100%;
+        height: 150px;
+        border: 3.75px inset black;
+    }
+    .font-1 {
+        font-family: Comfortaa;
+    }
+    .font-2 {
+        font-family: Bellota;
+    }
+    .font-3 {
+        font-family: Poppins;
+    }
+    .font-4 {
+        font-family: Delius;
+    }
+     kbd {
+padding: 8px;
+background: darkgray;
+color: lightgray;
+user-select: none;
+font-family: Poppins;
+height: 70px;
+font-size: 18px;
+border-radius: 10px;
+}
+    #txtar {
+    height: 100px;
+    width: 50%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 8px;
+    font-size: 18px;
+    text-align: -webkit-center;
+    outline: none;
+    }
+    #txtar:focus, #txtar:hover{
+    box-shadow: 0px 0px 5px 0px dodgerblue;
+    }
